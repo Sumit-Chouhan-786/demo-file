@@ -1,0 +1,38 @@
+export const heroDetails = [
+  {
+    name: "John Doe",
+    age: 30,
+    gender: "Male",
+    height: 170,
+    weight: 60,
+    hairColor: "Brown",
+    eyeColor: "Blue",
+  },
+  {
+    name: "John Doe",
+    age: 30,
+    gender: "Male",
+    height: 170,
+    weight: 60,
+    hairColor: "Brown",
+    eyeColor: "Blue",
+  },
+  {
+    name: "John Doe",
+    age: 30,
+    gender: "Male",
+    height: 170,
+    weight: 60,
+    hairColor: "Brown",
+    eyeColor: "Blue",
+  },
+  {
+    name: "John Doe",
+    age: 30,
+    gender: "Male",
+    height: 170,
+    weight: 60,
+    hairColor: "Brown",
+    eyeColor: "Blue",
+  },
+];

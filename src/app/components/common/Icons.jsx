@@ -1,0 +1,1 @@
+// this is a component that will render an icon
